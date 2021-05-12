@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hello I'm Chris 👋
+&nbsp;&nbsp;&nbsp;&nbsp;I'm currently 👨‍💻 as a Software Engineer at Applied Medical, where I'm building a learning management system for resident 🧑‍⚕️!
 
+&nbsp;&nbsp;&nbsp;&nbsp;On the side I 👯 with friends on a variety of projects, check out my 📌 items below for some of my open-source ones
+
+&nbsp;&nbsp;&nbsp;&nbsp;Feel free to shoot me an 📫 and say hi at [chrismeyer175@gmail.com](mailto:chrismeyer175@gmail.com)
 <!--
 **ChrisMeyer7088/ChrisMeyer7088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
