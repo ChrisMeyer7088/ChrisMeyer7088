@@ -1,5 +1,5 @@
 ### Hello I'm Chris 👋
-&nbsp;&nbsp;&nbsp;&nbsp;I'm currently 👨‍💻 as a Software Engineer at Applied Medical, where I'm building a learning management system for resident 🧑‍⚕️!
+&nbsp;&nbsp;&nbsp;&nbsp;I'm currently 👨‍💻 as a Software Engineer at 2U!
 
 &nbsp;&nbsp;&nbsp;&nbsp;On the side I 👯 with friends on a variety of projects, check out my 📌 items below for some of my open-source ones
 
