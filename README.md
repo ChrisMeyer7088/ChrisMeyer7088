@@ -1,9 +1,10 @@
 ### Hello I'm Chris 👋
-&nbsp;&nbsp;&nbsp;&nbsp;I'm currently 👨‍💻 as a Software Engineer at 2U!
+I currently work as a Software Engineer at 2U! 👨‍💻
 
-&nbsp;&nbsp;&nbsp;&nbsp;On the side I 👯 with friends on a variety of projects, check out my 📌 items below for some of my open-source ones
+On the side I pair with friends on a variety of projects, including the co-authoring of [Feynote.com](https://feynote.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Feel free to shoot me an 📫 and say hi at [chrismeyer175@gmail.com](mailto:chrismeyer175@gmail.com)
+Feel free to shoot me an message and say hi at [chrismeyer175@gmail.com](mailto:chrismeyer175@gmail.com)
+
 <!--
 **ChrisMeyer7088/ChrisMeyer7088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
