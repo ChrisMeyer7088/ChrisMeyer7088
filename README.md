@@ -1,7 +1,7 @@
 ### Hello I'm Chris 👋
 I currently work as a Software Engineer at 2U! 👨‍💻
 
-On the side I pair with friends on a variety of projects, including the co-authoring of [Feynote.com](https://feynote.com/)
+On the side I pair with friends on a variety of projects, including the co-authoring of [FeyNote.com](https://feynote.com/)
 
 Feel free to shoot me an message and say hi at [chrismeyer175@gmail.com](mailto:chrismeyer175@gmail.com)
 
